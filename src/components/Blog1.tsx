@@ -1,5 +1,4 @@
 import Link from 'next/link';
-import data from '../public/blog.json';
 
 const Blog = async () => {
   // Simulate fetching the JSON file
